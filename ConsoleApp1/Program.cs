@@ -7,6 +7,8 @@ namespace ConsoleApp1 {
 
             Console.WriteLine("Good mornning!");
 
+            Console.WriteLine("How are you today?");
+
             Console.ReadKey();
 
         }
